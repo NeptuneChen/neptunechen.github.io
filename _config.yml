@@ -1,11 +1,11 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+title: NeptuneChen
+subtitle: 大道之行也，天下为公
+welcome_message: 欢迎来到我的个人网站! 
+description: Hi,我是NeptuneChen,一名小小的前端爱好者,目前还在自学,致力于web前端的研究和应用,努力成为一名优秀的前端开发工程师。
+creator: <a href="http://www.NeptuneChen.top">@NeptuneChen</a>
 
-url: "http://vno.onevcat.com"
+url: "http://www.neptunechen.top"
 
 permalink: /:year/:month/:title/
 
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: slate
 
 # The blog button should not be removed.
 blog_button:
@@ -22,7 +22,9 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: GitHub,     in_site: false,  description: NeptuneChen's GitHub,    url: 'https://github.com/NeptuneChen'}
+    - {title: cnblogs,     in_site: false,  description: NeptuneChen's cnblogs,    url: 'http://www.cnblogs.com/NeptuneChen'}
+    - {title: Projects, description: My Projects, url: 'http://www.neptunechen.top/wjs/'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -32,16 +34,16 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: NeptuneChen
     # duoshuo: 
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: chenghaihuang
+    github: NeptuneChen
+    twitter:  
+    gplus:  
+    mail: 1777155@qq.com
 
 # Google Analytics
 ga:

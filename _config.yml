@@ -24,7 +24,8 @@ blog_button:
 nav:
     - {title: GitHub,     in_site: false,  description: NeptuneChen's GitHub,    url: 'https://github.com/NeptuneChen'}
     - {title: cnblogs,     in_site: false,  description: NeptuneChen's cnblogs,    url: 'http://www.cnblogs.com/NeptuneChen'}
-    - {title: Projects, description: My Projects, url: 'http://www.neptunechen.top/wjs/'}
+    - {title: 项目1, description: My Projects, url: 'http://www.neptunechen.top/wjs/'}
+    - {title: 项目2, description: My Projects, url: 'http://www.neptunechen.top/moviecat/'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination

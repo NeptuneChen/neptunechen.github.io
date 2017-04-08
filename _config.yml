@@ -24,7 +24,7 @@ blog_button:
 nav:
     - {title: GitHub,     in_site: false,  description: NeptuneChen's GitHub,    url: 'https://github.com/NeptuneChen'}
     - {title: cnblogs,     in_site: false,  description: NeptuneChen's cnblogs,    url: 'http://www.cnblogs.com/NeptuneChen'}
-    - {title: bootstrap项目1, description: My Projects, url: 'http://www.neptunechen.top/wjs/'}
+    - {title: bootstrap项目, description: My Projects, url: 'http://www.neptunechen.top/wjs/'}
     - {title: angular项目, description: My Projects, url: 'http://www.neptunechen.top/moviecat/'}
     - {title: html+css项目(jd), description: My Projects, url: 'http://www.neptunechen.top/jd/'}
     - {title: html+css项目(tmall), description: My Projects, url: 'http://www.neptunechen.top/tmall/'}

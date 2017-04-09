@@ -26,8 +26,9 @@ nav:
     - {title: cnblogs,     in_site: false,  description: NeptuneChen's cnblogs,    url: 'http://www.cnblogs.com/NeptuneChen'}
     - {title: bootstrap项目, description: My Projects, url: 'http://www.neptunechen.top/wjs/'}
     - {title: angular项目, description: My Projects, url: 'http://www.neptunechen.top/moviecat/'}
-    - {title: html+css项目(jd), description: My Projects, url: 'http://www.neptunechen.top/jd/'}
-    - {title: html+css项目(tmall), description: My Projects, url: 'http://www.neptunechen.top/tmall/'}
+    - {title: 京东项目, description: My Projects, url: 'http://www.neptunechen.top/jd/'}
+    - {title: 天猫项目, description: My Projects, url: 'http://www.neptunechen.top/tmall/'}
+    - {title: 个人简历, description: My Projects, url: 'http://www.neptunechen.top/resume/'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination

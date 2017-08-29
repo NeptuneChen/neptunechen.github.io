@@ -28,6 +28,7 @@ nav:
     - {title: angular项目, description: My Projects, url: 'http://www.neptunechen.top/moviecat/'}
     - {title: 京东项目, description: My Projects, url: 'http://www.neptunechen.top/jd/'}
     - {title: 天猫项目, description: My Projects, url: 'http://www.neptunechen.top/tmall/'}
+    - {title: vue2项目, description: My Projects, url: 'http://www.neptunechen.top/elem/#/goods'}
     - {title: 个人简历, description: My Projects, url: 'http://www.neptunechen.top/resume/'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 

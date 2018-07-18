@@ -29,7 +29,6 @@ nav:
     - {title: 京东项目, description: My Projects, url: 'http://www.chenhaihuang.top/jd/'}
     - {title: 天猫项目, description: My Projects, url: 'http://www.chenhaihuang.top/tmall/'}
     - {title: vue2项目, description: My Projects, url: 'http://www.chenhaihuang.top/elem/#/goods'}
-    - {title: 个人简历, description: My Projects, url: 'http://www.chenhaihuang.top/resume/'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination

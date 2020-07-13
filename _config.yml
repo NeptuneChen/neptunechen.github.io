@@ -2,7 +2,7 @@
 title: NeptuneChen
 subtitle: 一片落叶丶
 welcome_message: 欢迎来到我的个人网站！ 
-description: Hi,我是NeptuneChen,一名走在销售路上的社会人！
+description: Hi,我是NeptuneChen,一名走在销售路上的金融民工！
 creator: <a href="http://www.chenhaihuang.top">@chenhaihuang</a>
 
 url: "http://www.chenhaihuang.top"
@@ -24,11 +24,11 @@ blog_button:
 nav:
     - {title: GitHub,     in_site: false,  description: NeptuneChen's GitHub,    url: 'https://github.com/NeptuneChen'}
     - {title: cnblogs,     in_site: false,  description: NeptuneChen's cnblogs,    url: 'http://www.cnblogs.com/NeptuneChen'}
-    - {title: bootstrap项目, description: My Projects, url: 'http://www.chenhaihuang.top/wjs/'}
-    - {title: angular项目, description: My Projects, url: 'http://www.chenhaihuang.top/moviecat/'}
-    - {title: 京东项目, description: My Projects, url: 'http://www.chenhaihuang.top/jd/'}
-    - {title: 天猫项目, description: My Projects, url: 'http://www.chenhaihuang.top/tmall/'}
-    - {title: vue2项目, description: My Projects, url: 'http://www.chenhaihuang.top/elem/#/goods'}
+    - {title: bootstrap项目, description: My Projects, url: 'http://www.neptunechen.icu/wjs/'}
+    - {title: angular项目, description: My Projects, url: 'http://www.neptunechen.icu/moviecat/'}
+    - {title: 京东项目, description: My Projects, url: 'http://www.neptunechen.icu/jd/'}
+    - {title: 天猫项目, description: My Projects, url: 'http://www.neptunechen.icu/tmall/'}
+    - {title: vue2项目, description: My Projects, url: 'http://www.neptunechen.icu/elem/#/goods'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
